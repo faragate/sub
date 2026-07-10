@@ -7,7 +7,7 @@ trojan://MITIVPN@162.159.38.119:443?security=tls&type=ws&host=De1-2-3.MaQRor.Ir&
 trojan://MITIVPN@170.114.45.6:443?security=tls&type=ws&host=my-usa-ol.MaQRor.Ir&path=%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%3DU-s&sni=UsAa-bUs.MaQRor.Ir&fp=chrome&alpn=http/1.1#FaraGATE 6
 trojan://MiTiVPN@104.16.71.48:443?security=tls&type=ws&host=n-la-nbad.MaQRor.Ir&path=%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%3DN--l&sni=nland-o-nl.MaQRor.Ir&fp=chrome&alpn=http/1.1#FaraGATE 7
 trojan://MiTiVPN@172.67.75.194:443?security=tls&type=ws&host=bw--ivs-b--vvs.MaQRor.Ir&path=%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%2F---@MiTiVPN%3Ds---w&sni=wbjj-bbcs-.MaQRor.Ir&fp=chrome&alpn=http/1.1#FaraGATE 8
-trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#FaraGATE 9
+socks://Og@193.151.145.81:1081#FaraGATE 9
 trojan://humanity@104.18.152.187:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#FaraGATE 10
 vless://729a43e6-6926-4c27-92f6-b70a67471afc@hub.oneoknews.com:443?mode=gun&security=reality&encryption=none&pbk=KJoHsAShwQt-FYE2OGEekwDbeeYe-S1A0YBU8W5uYGc&fp=firefox&type=grpc&serviceName=api.v1.StreamService&sni=hub.oneoknews.com&sid=064c2d37308aeeb6#FaraGATE 11
 trojan://humanity@45.130.125.32:443?path=/assignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmloud.com#FaraGATE 12
